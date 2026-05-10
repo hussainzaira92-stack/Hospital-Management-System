@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="admin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="appointment.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bill.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="doctor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="fileHandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="fileNotFoundException.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="hospitalException.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="hospitalSystem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="insufficientFundsException.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="invalidInputException.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="patient.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="person.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="prescription.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="slotUnavailableException.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stringHelpercpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="validator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GUI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="admin.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="appointment.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bill.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="doctor.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="fileHandler.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="fileNotFoundException.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="hospitalException.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="hospitalSystem.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="insufficientFundsException.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="invalidInputException.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="patient.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="person.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="prescription.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="slotUnavailableException.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="storage.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stringHelper.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="validator.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GUI.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="admin.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="appointments.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="bills.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="discharged.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="doctors.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="patients.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="prescriptions.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="security_log.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,3 @@
+2,3,4,1,10-05-2026,paracematmol,take daily
+2,8,2,4,10-05-2026,panadol,take daily
+3,8,2,4,10-05-2026,panadol,daily after breakfast

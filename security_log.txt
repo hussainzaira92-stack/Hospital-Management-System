@@ -1,0 +1,4 @@
+LOCKED ACCOUNT -> Role: Doctor | ID: -1
+
+
+LOCKED -> Role: Doctor | ID: 3
